@@ -1,11 +1,11 @@
-#include<conio.h>\
-#include<iostream.h>\
-#include<graphics.h>\
-#include<dos.h>\
-class taxi          //class definition\
+#include<conio.h>
+#include<iostream.h>
+#include<graphics.h>
+#include<dos.h>
+class taxi          //class definition
 {
-char placename[10];    //character array\
-char name[30];          //character array\
+char placename[10];    //character array
+char name[30];          //character array
 int km;
 float rupee;
 char ans;
